@@ -1,0 +1,5 @@
+{"name":"liberusoftware/module-crm-client-onboarding","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\ClientOnboarding\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\ClientOnboarding\\ClientOnboardingServiceProvider"]},"liberu":{"name":"crm-client-onboarding"}},
+    "require": {
+        "liberusoftware/module-organizations-teams": "^1.0"
+    }
+}
